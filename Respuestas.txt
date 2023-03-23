@@ -1,0 +1,11 @@
+#Trabajo Practico N° 2
+
+## 2.f) 
+           *¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+	No se puede ver el archivo tp2_1_2.c estando en la main branch y este fue creado en la rama Opcion_2
+
+           *Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+	Al hacer commit el commit en la rama Opcion 2, se separo de la rama principal
+
+          * Despues del merge. Utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+	Se ve que la linea de la rama Opcion_2 vuelve a conectarse a la rama del main
